@@ -12,4 +12,13 @@
 - Here we are using Amazon Reviews As our DataSet, Get This CSV File From The link 
  and download it in the same environment as your repository. link - [Amazon_reviews_CSV_file](https://drive.google.com/file/d/1F8iU6E2DzRBvY9JjNyUUa1GJD-tIlYtm/view?usp=drive_link)
 - **Required Libraries** -
--  
+   - nltk
+   - transformers
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+   - scipy
+   - tqdm
+
+## Follow the Steps Given In the Jupyter Notebook. 

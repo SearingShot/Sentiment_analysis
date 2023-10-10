@@ -21,4 +21,4 @@
    - scipy
    - tqdm
 
-## Follow the Steps Given In the Jupyter Notebook. 
+**Follow the Steps Given In the Jupyter Notebook.**
